@@ -66,16 +66,16 @@ The repositories below contain **different experimental implementations develope
 
 | Component | Repository | Contents |
 | --- | --- | --- |
-| Genesis RL experiments | [drone_rl_genesis](https://github.com/1shit4/drone_rl_genesis) | Rotor-RPM and CTBR interfaces, hovering, reward variants, and randomization |
+| Genesis RL experiments | [drone_rl_genesis](https://github.com/ishita-chaudhary/drone_rl_genesis) | Rotor-RPM and CTBR interfaces, hovering, reward variants, and randomization |
 | Isaac Lab experiments | [quadcopter_issaclab-rl](https://github.com/rocon-rrc/quadcopter_issaclab-rl) *(lab repository)* | Collaborative quadrotor RL implementation in Isaac Sim/Isaac Lab |
-| Flightmare training | [flightmare](https://github.com/1shit4/flightmare) | Quadrotor PPO training, testing, and model export |
-| Flightmare inference | [RLQuadcopterControlFlightmare](https://github.com/1shit4/RLQuadcopterControlFlightmare) | Exported-policy inference through ROS 2/PX4–Gazebo |
-| Aerial-manipulator simulation | [arm_control_ws](https://github.com/1shit4/arm_control_ws) | Vehicle/arm simulation, joint actuation, and Gazebo integration |
-| Inner-loop control | [quadcopter_inner_loop_control](https://github.com/1shit4/quadcopter_inner_loop_control) | Disturbance-estimating, ASMC, and INDI controller implementations |
-| Aerial Gym training and integration | [aerial_gym_simulator](https://github.com/1shit4/aerial_gym_simulator) | End-effector task environments, learning configurations, and controller-in-the-loop code |
-| Aerial Gym inference | [RLquadcopter_aerial_gym](https://github.com/1shit4/RLquadcopter_aerial_gym) | ROS 2/PX4 policy inference and tracking experiments |
+| Flightmare training | [flightmare](https://github.com/ishita-chaudhary/flightmare) | Quadrotor PPO training, testing, and model export |
+| Flightmare inference | [RLQuadcopterControlFlightmare](https://github.com/ishita-chaudhary/RLQuadcopterControlFlightmare) | Exported-policy inference through ROS 2/PX4–Gazebo |
+| Aerial-manipulator simulation | [arm_control_ws](https://github.com/ishita-chaudhary/arm_control_ws) | Vehicle/arm simulation, joint actuation, and Gazebo integration |
+| Inner-loop control | [quadcopter_inner_loop_control](https://github.com/ishita-chaudhary/quadcopter_inner_loop_control) | Disturbance-estimating, ASMC, and INDI controller implementations |
+| Aerial Gym training and integration | [aerial_gym_simulator](https://github.com/ishita-chaudhary/aerial_gym_simulator) | End-effector task environments, learning configurations, and controller-in-the-loop code |
+| Aerial Gym inference | [RLquadcopter_aerial_gym](https://github.com/ishita-chaudhary/RLquadcopter_aerial_gym) | ROS 2/PX4 policy inference and tracking experiments |
 
-Supporting [PX4-Autopilot](https://github.com/1shit4/PX4-Autopilot) and [PX4-gazebo-models](https://github.com/1shit4/PX4-gazebo-models) forks contain customized vehicle/manipulator models and configurations. The underlying simulators and flight-control frameworks belong to their respective upstream projects.
+Supporting [PX4-Autopilot](https://github.com/ishita-chaudhary/PX4-Autopilot) and [PX4-gazebo-models](https://github.com/ishita-chaudhary/PX4-gazebo-models) forks contain customized vehicle/manipulator models and configurations. The underlying simulators and flight-control frameworks belong to their respective upstream projects.
 
 ## Publication
 
